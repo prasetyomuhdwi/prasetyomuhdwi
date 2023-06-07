@@ -11,4 +11,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasetyomuhdwi&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasetyomuhdwi&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasetyomuhdwi&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prasetyomuhdwi&theme=default&utcOffset=7)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prasetyomuhdwi&theme=dark&utcOffset=7)
