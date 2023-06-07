@@ -7,8 +7,8 @@
 
 [Summary Github Profile](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasetyomuhdwi&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasetyomuhdwi&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasetyomuhdwi&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasetyomuhdwi&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasetyomuhdwi&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasetyomuhdwi&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasetyomuhdwi&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prasetyomuhdwi&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prasetyomuhdwi&theme=default&utcOffset=7)
